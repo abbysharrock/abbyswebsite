@@ -14,7 +14,7 @@ organizations:
   url: https://www.wgtn.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
-bio: Scientific researcher involved in the discovery and engineering of enzymes for anti-cancer gene therapy and targeted cell ablation applications.
+bio: Scientific researcher involved in the discovery and engineering of enzymes for anti-cancer gene therapy and targeted cell ablation.
 
 # Interests to show in About widget
 interests:
