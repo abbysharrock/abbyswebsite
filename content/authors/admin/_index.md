@@ -73,6 +73,6 @@ highlight_name: false
 
 Abby Sharrock is a scientific researcher with a demonstrated history of working in both academia and industry. She is skilled in areas including molecular biology, enzyme engineering, tissue culture, protein purification, microscopy, X-ray crystallography, zebrafish husbandry and data analysis. 
 
-Her current research focuses on the development of improved methods of targeted cellular ablation for both cancer gene therapy and degenerative disease modelling, and design of next-generation gene delivery vectors to support cancer therapies.
+In her current role as Postdoctoral Resesarch Fellow at Victoria University of Wellington, her research focuses on the development of improved methods of targeted cellular ablation for both cancer gene therapy and degenerative disease modelling. She is also involved in the design and development of next-generation gene delivery vectors to support cancer therapies.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
