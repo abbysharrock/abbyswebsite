@@ -75,7 +75,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-i love coffee. i need coffee.
+~~i love coffee.~~ i need coffee.
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
