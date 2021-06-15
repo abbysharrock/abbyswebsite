@@ -55,7 +55,7 @@ social:
   link: https://www.linkedin.com/in/abigail-sharrock-248b99b8/
 - icon: orcid
   icon_pack: ai
-  link:https://orcid.org/0000-0003-2837-9481
+  link: https://orcid.org/0000-0003-2837-9481
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
