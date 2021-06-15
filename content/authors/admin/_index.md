@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abby Sharrock
+title: Abigail Sharrock
 
 # Is this the primary user of the site?
 superuser: true
@@ -71,7 +71,7 @@ email: ""
 highlight_name: false
 ---
 
-Abby Sharrock is a scientific researcher with a demonstrated history of working in both academia and industry. She is skilled in areas including molecular biology, enzyme engineering, tissue culture, protein purification, microscopy, X-ray crystallography, zebrafish husbandry and data analysis. 
+Abigail (Abby) Sharrock is a scientific researcher with a demonstrated history of working in both academia and industry. She is skilled in areas including molecular biology, enzyme engineering, tissue culture, protein purification, microscopy, X-ray crystallography, zebrafish husbandry and data analysis. 
 
 In her current role as Postdoctoral Resesarch Fellow at Victoria University of Wellington, Abby's research focuses on the development of improved methods of targeted cellular ablation for both cancer gene therapy and degenerative disease modelling. She is also involved in a number of collaborative research projects, including the design and development of next-generation gene delivery vectors to support cancer therapies.
 
