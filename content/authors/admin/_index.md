@@ -14,7 +14,7 @@ organizations:
   url: https://www.wgtn.ac.nz
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research involves the discovery and engineering of enzymes for anti-cancer gene therapy and targeted cell ablation applications
+bio: My research involves the discovery and engineering of enzymes for anti-cancer gene therapy and targeted cell ablation applications.
 
 # Interests to show in About widget
 interests:
@@ -44,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=jw1G1T0AAAAJ&hl=en
