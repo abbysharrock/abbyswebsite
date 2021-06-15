@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abigail Sharrock
+title: Abby Sharrock
 
 # Is this the primary user of the site?
 superuser: true
