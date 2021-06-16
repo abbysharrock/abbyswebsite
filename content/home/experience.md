@@ -37,13 +37,13 @@ experience:
         * Tissue Culture
         
   - title: Research Assistant
-    company: University of Waikato
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Hamilton, NZ
-    date_start: '2013-01-01'
-    date_end: '2014-11-31'
-    description: Conducted research into identifying and characterizing M. tuberculosis virulence proteins.
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
