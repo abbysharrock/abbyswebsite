@@ -16,15 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon: Protein Purification
+- icon: r-project
   icon_pack: fab
-  name: R
+  name: Protein Purification
 - icon: chart-line
   icon_pack: fas
   name: Molecular Biology
 - icon: camera-retro
   icon_pack: fas
-  name: DNA, RNA and protein handling
+  name: DNA and RNA manipulation
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
