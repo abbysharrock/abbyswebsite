@@ -30,20 +30,20 @@ experience:
     date_start: '2019-03-01'
     date_end: ''
     description: |2-
-        Research Experience:
+        Responsibilities include:
         
         * Molecular Biology/Microbiology
         * Enzyme Engineering
         * Tissue Culture
         
-  - title: Research Assistant
-    company: The University of Waikato
+  - title: Professor of Semiconductor Physics
+    company: University X
     company_url: ''
     company_logo: org-x
-    location: Hamilton, NZ
-    date_start: '2013-11-01'
-    date_end: '2014-11-31'
-    description: Conducted research on the characterization of *M. tuberculosis* virulence proteins.
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
