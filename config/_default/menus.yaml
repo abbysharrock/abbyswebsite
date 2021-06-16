@@ -28,9 +28,6 @@ main:
   - name: Research
     url: '#research'
     weight: 14
-  - name: Hero
-    url: '#hero'
-    weight: 1
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
