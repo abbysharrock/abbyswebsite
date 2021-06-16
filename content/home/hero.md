@@ -22,4 +22,4 @@ cta_alt:
 # Note. An optional note to show underneath the links.
 cta_note:
   label: ''
-  ---
+---
