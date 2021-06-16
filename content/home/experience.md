@@ -42,7 +42,7 @@ experience:
     company_logo: org-x
     location: Hamilton, NZ
     date_start: '2013-11-01'
-    date_end: '2014-11-30'
+    date_end: '2014-12-30'
     description: Conducted research into identifying and characterizing *M. tuberculosis* virulence proteins.
 
 design:
