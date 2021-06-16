@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Wellington, NZ
-    date_start: '2019-01-03'
+    date_start: '2019-03-01'
     date_end: ''
     description: |2-
         Responsibilities include:
