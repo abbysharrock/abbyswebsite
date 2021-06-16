@@ -24,9 +24,9 @@ email: abby.sharrock@vuw.ac.nz
 # phone: 888 888 88 88
 address:
   street: Victoria University of Wellington
-  building: Te Toki a Rata Building
-  region: Kelburn
-  city: Wellington
+  Te Toki a Rata Building
+  region: Wellington
+  city: Kelburn
   postcode: '6012'
   country: New Zealand
   # country_code: NZ
