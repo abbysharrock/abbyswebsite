@@ -4,6 +4,9 @@ headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
+# Order that this section appears on the page.
+weight: 10
+
 # Hero image (optional). Enter filename of an image in the assets/media/ folder.
 hero_media: 'lab_image.jpg'
 
